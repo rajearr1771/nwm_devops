@@ -1,0 +1,7 @@
+2 front end with nginx in region 1 - t2.micro
+2 back end with mysql in region 2 - t2.micro
+Spread all vm's across at least 2 availability zones in each region
+Use variables to determine availability zones
+Output ipaddresses of all ec2 instances
+make sure create happens before destroy on updates
+
